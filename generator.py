@@ -39,6 +39,7 @@ tmpl = Template("""
 """)
 
 tmpl2 =  Template("""
+<!doctype html>
 <html>
     <head>
         <title>
